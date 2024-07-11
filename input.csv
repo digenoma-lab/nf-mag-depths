@@ -1,0 +1,8 @@
+sample,read1,read2
+S1,reads/S1.R1.fq.gz,reads/S1.R2.fq.gz
+S2,reads/S2.R1.fq.gz,reads/S2.R2.fq.gz
+S3,reads/S3.R1.fq.gz,reads/S3.R2.fq.gz
+S7,reads/S7.R1.fq.gz,reads/S7.R2.fq.gz
+S15,reads/S15.R1.fq.gz,reads/S15.R2.fq.gz
+S17,reads/S17.R1.fq.gz,reads/S17.R2.fq.gz
+
